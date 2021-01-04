@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253652620822",
+    "firebase_url": "https://lokalizacjamonitoring.firebaseio.com",
+    "project_id": "lokalizacjamonitoring",
+    "storage_bucket": "lokalizacjamonitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253652620822:android:e9be0ca7d562e19a4f4737",
+        "android_client_info": {
+          "package_name": "com.example.inzynierkaadamh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253652620822-egbfq5chalc5bi6p4c8nljjsg5240qt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inzynierkaadamh",
+            "certificate_hash": "23353f2473e4e3f4e1ca539b92d082ed16fb2f0f"
+          }
+        },
+        {
+          "client_id": "253652620822-ql4jnbnr0jusm8pphjglsioduvtts4ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXZ35zxA6KN5qatAawZMyKwKXul5HmXzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253652620822-ql4jnbnr0jusm8pphjglsioduvtts4ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
